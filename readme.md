@@ -1,11 +1,12 @@
-Stripe Aurelia/Laravel Integration
+<h1>Stripe Package</h1>
 
-In aurelia  
+<h3>Frontend Aurelia</h3>
+<h4>In aurelia</h4>  
 
-npm install --dev @types/stripe
+<p>npm install --dev @types/stripe</p>
 
+<h3>Backend Laravel</h3>
+<h4>In Laravel<h4> 
 
-In Laravel 
-
-composer require stripe/stripe-php
+<p>composer require stripe/stripe-php</p>
 
